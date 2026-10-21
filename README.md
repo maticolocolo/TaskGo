@@ -227,3 +227,8 @@ La implementación de Room proporciona persistencia de datos, y los recursos nat
 Finalmente, las animaciones y estadísticas complementan la experiencia, proporcionando una solución funcional para la administración de tareas personales.
 
 TaskGo constituye una base para continuar incorporando nuevas funcionalidades y perfeccionando el proyecto durante las siguientes etapas de desarrollo académico.
+
+
+
+Link del Trello.
+https://trello.com/invite/b/6ad8492633d9ab0dc8f1e5ef/ATTI0e573ed8b1c6394ae30711f7a85b486dD939BD4E/taskgo-desarrollo-de-aplicaciones-moviles
